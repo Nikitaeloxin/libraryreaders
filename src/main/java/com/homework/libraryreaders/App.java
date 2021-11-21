@@ -12,7 +12,7 @@ public class App
     {
         ArrayList<Book> books = new ArrayList<Book>();
         ArrayList<Reader> readers = new ArrayList<Reader>();
-        String[] stringBooks = {"xuy","pizda"};
+        String[] stringBooks = {"book1","book2"};
          
 
         books.add(new Book("War and Peace", "Tolstoy"));
